@@ -1,7 +1,7 @@
-# tgbot❤
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=welcome+To+Rose's+Repo!;A+simple+Group+modular+bot!;and+all+futures!)
+# Aditya
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+ADITYA'S+BOT!;A+simple+Group+modular+bot!;and+all+futures!)
 </p>
-<center><img src="https://telegra.ph/file/6374be06fca3f8e59e6a2.jpg"></center>
+<center><img src="https://te.legra.ph/file/2899123116ff7d4a6dd8e.jpg"></center>
 <br>
 <center><a href="https://www.python.org">
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
@@ -11,22 +11,19 @@
 Originally a simple group management bot with multiple admin features, it has evolved, becoming extremely modular and 
 simple to use.
 
-Can be found on telegram as [കൊച്ചുമുതലാളി](https://t.me/kochubot).
+Can be found on telegram as [˹ᴀꜱꜱ͢͢ᴀꜱꜱɪɴ˼](https://t.me/adi_xdbot).
 
-Kochu and I are moderating a [support group](https://t.me/Keralabots), where you can ask for help setting up your
+Kochu and I are moderating a [support group](https://t.me/+mJVYc0JvB68zM2U1), where you can ask for help setting up your
 bot, discover/request new features, report bugs, and stay in the loop whenever a new update is available. Of course
 I'll also help when a database schema changes, and some table column needs to be modified/added. Note to maintainers that all schema changes will be found in the commit messages, and its their responsibility to read any new commits.
 
-Join the [news channel](https://t.me/Mo_Tech_YT) if you just want to stay in the loop about new features or
-announcements.
-
-Alternatively, [find me on telegram](https://t.me/jithumon)! (Keep all support questions in the support chat, where more people can help you.)
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MRK-YT/Rose-Bot)<br>
-There is also a [tutorial video](https://youtu.be/wKL90i3cjPw) if you want any help on creating heroku clone.
-[![telegram badge](https://img.shields.io/badge/Support-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/keralabots)
-[![telegram badge](https://img.shields.io/badge/Update-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/kochuUpdates)
+Alternatively, [find me on telegram](https://t.me/adi_xd)! (Keep all support questions in the support chat, where more people can help you.)
+
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](http://heroku.com/deploy?template=https://github.com/spark3600/Spark2)<br>
+[![telegram badge](https://img.shields.io/badge/Support-Group-30302f?style=flat&logo=telegram)](https://t.me/+mJVYc0JvB68zM2U1)
 
 
 
@@ -34,7 +31,7 @@ There is also a [tutorial video](https://youtu.be/wKL90i3cjPw) if you want any h
 
 Once you've setup your database and your configuration (see below) is complete, simply run:
 
-`python3 -m tg_bot`
+`python3 -m adi_xdbot`
 
 
 ## Setting up the bot (Read this before trying to use!):
@@ -59,13 +56,13 @@ from tg_bot.sample_config import Config
 
 
 class Development(Config):
-    OWNER_ID = 254318997  # my telegram ID
-    OWNER_USERNAME = "SonOfLars"  # my telegram username
+    OWNER_ID = 1930381191  # my telegram ID
+    OWNER_USERNAME = "adi_xd"  # my telegram username
     API_KEY = "your bot api key"  # my api key, as provided by the botfather
     SQLALCHEMY_DATABASE_URI = 'postgresql://username:password@localhost:5432/database'  # sample db credentials
     MESSAGE_DUMP = '-1234567890' # some group chat that your bot is a member of
     USE_MESSAGE_DUMP = True
-    SUDO_USERS = [18673980, 83489514]  # List of id's for users which have sudo access to the bot.
+    SUDO_USERS = [1930381191, 1930381191]  # List of id's for users which have sudo access to the bot.
     LOAD = []
     NO_LOAD = ['translation']
 ```
