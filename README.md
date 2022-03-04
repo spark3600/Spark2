@@ -1,5 +1,5 @@
 # Aditya
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+ADITYA'S+BOT!;A+simple+Group+modular+bot!;and+all+futures!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+ADITYA'S+BOT!;A+SIMPLE+GROUP+MANAGEMENT+BOT!;WITH+FANTASTIC+FEATURES!)
 </p>
 <center><img src="https://te.legra.ph/file/2899123116ff7d4a6dd8e.jpg"></center>
 <br>
